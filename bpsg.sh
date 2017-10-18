@@ -63,5 +63,5 @@ cd ..
 cd js
 wget https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
 wget https://code.jquery.com/jquery-3.2.1.min.js
-echo -e "\e[92mDone!"
+echo -e "\e[92mDone! Your folder \"html-site\" has been created"
 echo -e "\e[39m"

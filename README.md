@@ -1,6 +1,6 @@
 # BPSG: Boostrap Plain Site Generator
 
-This is a bash script that creates a basic HTML site folder structure with Bootstrap & jQuery included.
+This is a bash script that creates a basic HTML site folder structure with Bootstrap & jQuery included. It will also prepare an index HTML file for you.
 
 # Structure
     html-site
